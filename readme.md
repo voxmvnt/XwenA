@@ -1,7 +1,7 @@
 ![프로젝트 소개](https://github.com/voxmvnt/XwenA/blob/main/dacon_intro.jpg)
 
-## 👨‍🏫 프로젝트 소개 [(Dacon Page)](https://dacon.io/competitions/official/236216/overview/description "Dacon 대회 참여 페이지로 이동")
-- DACON 한솔데코 AI 경진대회 참여
+## 👨‍🏫 프로젝트 소개 
+- DACON 한솔데코 AI 경진대회 참여 [(Dacon 페이지로 이동)](https://dacon.io/competitions/official/236216/overview/description "Dacon 대회 참여 페이지로 이동"){:target="_blank"}
 - 도배 하자 질의 응답처리 모델 구현
 <br> (자세한 내용은 발표 PDF 파일을 참고)
 
