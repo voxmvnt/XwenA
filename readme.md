@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 프로젝트 소개 
 - DACON 한솔데코 AI 경진대회 참여 [(Dacon 페이지로 이동)](https://dacon.io/competitions/official/236216/overview/description){:target="_blank"}
-- 도배 하자 질의 응답처리 모델 구현
+- 도배 하자 질의 응답처리 모델 구현 <a href="https://dacon.io/competitions/official/236216/overview/description" target="_blank">Dacon 페이지로 이동</a>
 <br> (자세한 내용은 발표 PDF 파일을 참고)
 
 ## ⏲️ 개발 기간 
